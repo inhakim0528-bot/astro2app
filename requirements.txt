@@ -3,3 +3,7 @@ astropy
 numpy
 pillow
 matplotlib
+streamlit>=1.32
+numpy>=1.24
+pandas>=2.0
+plotly>=5.18
